@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Al-Mizer: Alactually and I reside in the area on Montreal, QC, Canada
+- 👋 Hi, I’m @Al-Mizer: Al actually. a resident of the suburbs of Montreal, QC, Canada
 - 👀 I’m interested in GURPS and GCS
 - 🌱 I’m currently learning How GCS works, because I'm pretty new at it.
 - 💞️ I’m looking to collaborate on GCS maybe, but I'm considering it.
